@@ -6,8 +6,6 @@ A pesquisa foi conduzida com **1.338 colaboradores** selecionados aleatoriamente
 
 A análise segue a metodologia **CRISP-DM**, aplicando técnicas de **análise exploratória, associação e regressão linear** para compreender quais fatores estão mais relacionados ao aumento do custo do plano e propor ações preventivas.
 
----
-
 ##  Objetivo
 
 Identificar quais fatores estão mais relacionados ao aumento do custo do plano de saúde e propor **ações de prevenção** que reduzam gastos e melhorem o bem-estar dos colaboradores.
@@ -16,19 +14,20 @@ Em termos práticos, o projeto busca responder às seguintes perguntas:
 1. Quais fatores estão mais relacionados com o custo do plano de saúde?
 2. Que ações preventivas podem ser implementadas para reduzir esse custo?
 
----
+
 
 ##  Leitura Completa
 
 O artigo completo com **interpretação dos resultados, gráficos e recomendações** está publicado no Medium:  
  [Acesse o artigo aqui]
 
----
+
 
 ##  Estrutura do Projeto
 
-data/ -> Base de dados(brutos)
-notebooks/ -> notebooks utilizados para analises
+- `data/` → Base de dados (brutos)
+- `notebooks/` → Notebooks utilizados para análises
+
 
 ##  Metodologia
 
